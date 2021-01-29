@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Week 11 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bret-short/note-taker.git"
+  },
+  "author": "Bret Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bret-short/note-taker/issues"
+  },
+  "homepage": "https://github.com/bret-short/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

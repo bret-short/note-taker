@@ -2,6 +2,8 @@
 
 This is the Note-Taker application!
 
+This application uses Node to activate a local server to store your data as well as the Express framework for the back end of the application. 
+
 This application allows users to access a landing page where a link is visible to a notes page. 
 
 When you reach the note page you are shown all of your existing notes you have saved, or empty fields if no notes have been created yet. 

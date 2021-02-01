@@ -15,3 +15,8 @@ When you click on an existing note that note is then brought up in your right-ha
 Here are some screeshots to see the application in action...
 <img width="1438" alt="Screen Shot 2021-01-31 at 10 33 02 PM" src="https://user-images.githubusercontent.com/73445178/106418950-9eb94e80-6414-11eb-8cd2-c5e2ba71273c.png">
 
+<img width="1431" alt="Screen Shot 2021-01-31 at 10 33 35 PM" src="https://user-images.githubusercontent.com/73445178/106419012-bdb7e080-6414-11eb-9781-a1e7172e861e.png">
+<img width="1425" alt="Screen Shot 2021-01-31 at 10 34 17 PM" src="https://user-images.githubusercontent.com/73445178/106419015-bee90d80-6414-11eb-9a8e-ba13a075a901.png">
+
+You can try out the application yourself right here:
+https://bret-note-taker.herokuapp.com/

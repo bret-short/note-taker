@@ -1,4 +1,4 @@
-# note-taker
+
 
 This is the Note-Taker application!
 
